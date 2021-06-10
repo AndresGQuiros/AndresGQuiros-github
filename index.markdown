@@ -1,9 +1,7 @@
 ---
 layout: default
-title: Andres Gonzalez Quiros
+title: Andres Go Quiros
 ---
-
-<!doctype html>
 
 <html>
   <head>
