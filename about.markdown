@@ -42,6 +42,7 @@ permalink: /contact/
 	</div>
 
 </body>
+	
 <footer class="page-footer">
 	<div class="footer">
 		<p>Copyright &copy; andresgquiros    All Rights Reserved, 2021</p>
