@@ -20,16 +20,9 @@
 		</div>	
 	</div>
 
-</body>
 	
-<footer class="page-footer">
-	<div class="footer">
-		<p>Copyright &copy; andresgquiros    All Rights Reserved, 2021</p>
-	</div>
-</footer>
-	
-	<p>
-	                                    <a href="https://scholar.google.es/citations?user=wz-2JuAAAAAJ", target="_blank">
+		<!--<p>
+	                                 <a href="https://scholar.google.es/citations?user=wz-2JuAAAAAJ", target="_blank">
                                         <i class="icon-google-scholar" style="font-size: 32px;"></i>
                                     </a>
                                     <a href="https://www.researchgate.net/profile/Andres-Gonzalez-Quiros", target="_blank">
@@ -38,6 +31,16 @@
                                     <a href="https://github.com/AndresGQuiros", target="_blank">
                                         <i class="icon-github" style="font-size: 32px;"></i>
                                     </a>
-                                </p>
+                                </p> -->
+	
+</body>
+	
+<footer class="page-footer">
+	<div class="footer">
+		<p>Copyright &copy; andresgquiros    All Rights Reserved, 2021</p>
+	</div>
+</footer>
+	
+
 
 </html>
