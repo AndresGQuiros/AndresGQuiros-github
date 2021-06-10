@@ -35,7 +35,11 @@ title: Andres Gonzalez Quiros
 	
 			
 	    <p>
-    <a href="https://www.researchgate.net/profile/Andres-Gonzalez-Quiros" target="_blank">Researchgate</a>
+    <a href="https://www.researchgate.net/profile/Andres-Gonzalez-Quiros" target="_blank">ResearchGate</a>
+    </p>
+	  
+	   <p>
+    <a href="https://scholar.google.es/citations?user=wz-2JuAAAAAJ" target="_blank">Scholar</a>
     </p>
 
 	
