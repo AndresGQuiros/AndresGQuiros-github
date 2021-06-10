@@ -29,6 +29,7 @@ github_username:  AndresGQuiros
 
 # Build settings
 theme: jekyll-theme-architect
+layout: "default"
 plugins:
   - jekyll-feed
 
