@@ -24,8 +24,8 @@ title: Andres Gonzalez Quiros
     </p>
 	  
     <p>
-    <-- <img src="https://www.abdn.ac.uk/img/150/staffpages/uploads/s01aq8/Andres_2_2.jpg" alt="abdn.ac.uk">  
-      </p>
+    <!-- <img src="https://www.abdn.ac.uk/img/150/staffpages/uploads/s01aq8/Andres_2_2.jpg" alt="abdn.ac.uk">  -->
+      </p> 
      
     
     <h2>Last Publications </h2>
