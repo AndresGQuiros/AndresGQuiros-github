@@ -30,7 +30,7 @@ twitter_username: DresKiros
 github_username:  AndresGQuiros
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
