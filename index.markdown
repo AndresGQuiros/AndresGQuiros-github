@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Andres Go Quiros
+title: Andres Gonzalez Quiros
 ---
 
 
@@ -9,7 +9,7 @@ title: Andres Go Quiros
     <title>Andres Gonzalez Quiros</title>
   </head>
   <body>
-    <p>This will be my hello hell o personal webpage but now is <strong>testing</strong> .</p>
+    <p>Hello, I am <strong>testing</strong> .</p>
     
     
 	   <p>
