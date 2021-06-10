@@ -20,8 +20,7 @@ permalink: /contact/
 			<h3>Contact for best Design</h3>
 			<div class="input-fields">
 				<input type="text" class="input" placeholder="Your Name *">
-				<input type="text" class="input" placeholder="Your Emaill *">
-				<input type="text" class="input" placeholder="Your Phone *">
+				<input type="text" class="input" placeholder="Your Email *">
 				
 			</div>
 			<div class="msg">
@@ -34,12 +33,10 @@ permalink: /contact/
 			<div class="details">
 				<h3> Contact info </h3>
 				<p> E-mail: andresgquiros@gmail.com</p>
-				<p> web: about.me/niloy-biswas </p>
 			</div>
 			<div class="details"> 
 				<p> E-mail: andresgquiros@gmail.com</p>
 				<p> Mobile: +354252525453 </p>
-				<p> web: about.me/mahi.swe </p>
 			</div>			
 		</div>	
 	</div>
