@@ -16,7 +16,7 @@ title: Andres Go Quiros
     
     
 	   <p>
-    <a href="https://andresgquiros.github.io/papers" target="_blank">Publications</a>
+    <a href="https://andresgquiros.github.io/publications" target="_blank">Publications</a>
     </p>
 	  
     <p>
