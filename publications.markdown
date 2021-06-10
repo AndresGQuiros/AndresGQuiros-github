@@ -15,7 +15,7 @@ permalink: /publications/
      <p> <strong>González-Quirós, A.</strong>, & Fernández-Álvarez, J. P. (2021). Use of microgravity for identification of delayed gravity drainage and conceptual model 		selection in unconfined aquifers. Journal of Hydrology, 126285.
     <a href="https://andresgquiros.github.io/papers/GQ_FA_2021_JoH.pdf" target="_blank">link.</a></p>
 
-   	    <p> Kurjanski, B., Rea, B.R., Spagnolo, M., Cornwell, D.G., Howell, J., Comte, J.-C., Gonzalez Quiros, A., Palmu, J.-P., Oien, R.P. and Gibbard, P.L. (2021), Cool 		deltas: Sedimentological, geomorphological and geophysical characterization of ice-contact deltas and implications for their reservoir properties (Salpausselkä, 		Finland). Sedimentology [In press].</p>
+   	    <p> Kurjanski, B., Rea, B.R., Spagnolo, M., Cornwell, D.G., Howell, J., Comte, J.-C., <strong>González-Quirós, A.</strong>, Palmu, J.-P., Oien, R.P. and Gibbard, P.L. (2021), Cool 		deltas: Sedimentological, geomorphological and geophysical characterization of ice-contact deltas and implications for their reservoir properties (Salpausselkä, 		Finland). Sedimentology [In press].</p>
 
    	    <p> <strong>González-Quirós, A.</strong> & Comte, J. C. (2020). Relative importance of conceptual and computational errors when delineating saltwater intrusion from 		resistivity inverse models in heterogeneous coastal aquifers. Advances in Water Resources, 144, 103695.</p>
 
