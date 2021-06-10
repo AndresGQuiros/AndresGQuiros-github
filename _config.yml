@@ -28,7 +28,7 @@ twitter_username: DresKiros
 github_username:  AndresGQuiros
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
