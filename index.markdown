@@ -3,10 +3,7 @@ layout: default
 title: Andres Go Quiros
 ---
 
-<html>
-  <head>
-    <title>Andres Gonzalez Quiros</title>
-  </head>
+
 <html>
   <head>
     <title>Andres Gonzalez Quiros</title>
@@ -45,9 +42,7 @@ title: Andres Go Quiros
 	    <p>
     <a href="https://www.researchgate.net/profile/Andres-Gonzalez-Quiros" target="_blank">Researchgate</a>
     </p>
-	
-<a href="http://www.researchgate.net/profile//Andres-Gonzalez-Quiros", target="_blank">
-                                        <i class="icon-researchgate" style="font-size: 32px;"></i>
+
 	
 	
 	</body>
