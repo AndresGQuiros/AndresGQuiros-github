@@ -11,26 +11,11 @@
 		
 		<div class="Contact-Form">
 			<h1> Contact</h1>
-			<h3>Contact for best Design</h3>
-			<div class="input-fields">
-				<input type="text" class="input" placeholder="Your Name *">
-				<input type="text" class="input" placeholder="Your Email *">
-				
-			</div>
-			<div class="msg">
-				<textarea placeholder="Message *"></textarea>
-				
-			</div>
-			<div>
-				<button> Send message</button>
-			</div>
+			
 			<div class="details">
 				<h3> Contact info </h3>
 				<p> E-mail: andresgquiros@gmail.com</p>
-			</div>
-			<div class="details"> 
-				<p> E-mail: andresgquiros@gmail.com</p>
-				<p> Mobile: +354252525453 </p>
+				<p> E-mail: andres.quiros@abdn.ac.uk</p>
 			</div>			
 		</div>	
 	</div>
