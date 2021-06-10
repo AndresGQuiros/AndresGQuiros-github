@@ -11,7 +11,10 @@ title: Andres Gonzalez Quiros
   <body>
     <p>Hello, I am <strong>testing</strong> .</p>
     
-    
+    	    <p>
+    <a href="https://www.abdn.ac.uk/geosciences/people/profiles/andres.quiros" target="_blank">My ABDN profile</a>
+    </p>
+	  
 	   <p>
     <a href="https://andresgquiros.github.io/publications" target="_blank">Publications</a>
     </p>
@@ -34,9 +37,7 @@ title: Andres Gonzalez Quiros
 			
 	
 	
-	    <p>
-    <a href="https://www.abdn.ac.uk/geosciences/people/profiles/andres.quiros" target="_blank">My ABDN profile</a>
-    </p>
+
 	
 		
 	    <p>
