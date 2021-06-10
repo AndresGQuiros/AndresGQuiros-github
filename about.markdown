@@ -12,24 +12,7 @@ permalink: /contact/
 	<link rel="stylesheet" href="formstyle.css">
 </head>
 <body>
-	<header>
-		<nav>
-			<ul>
-				<li> <b href="https://www.andresgquiros.github.io">Andres G Quiros</b></li>
-				<li> <a href="#">Feature </a> </li>
-				<li> <a href="#">poftfolio </a> </li>
-				<li> <a href="#">About</a> </li>
-				<li> <a href="#">Service</a> </li>
-				<li> <a href="#">Team</a> </li>
-				<li> <a href="#">Pricing</a> </li>
-				<li> <a href="#">Latest News</a> </li>
-				<li> <a href="#">Partner</a> </li>
-				<li> <a href="#">Contact</a> </li>
-
-			</ul>
-		</nav>
-	</header>
-
+ 
 	<div class="full">
 		
 		<div class="Contact-Form">
@@ -51,11 +34,9 @@ permalink: /contact/
 			<div class="details">
 				<h3> Contact info </h3>
 				<p> E-mail: andresgquiros@gmail.com</p>
-				<p> Mobile: +532523532523 </p>
 				<p> web: about.me/niloy-biswas </p>
 			</div>
 			<div class="details"> 
-				<h3> Working hours: 9am-6pm </h3>
 				<p> E-mail: andresgquiros@gmail.com</p>
 				<p> Mobile: +354252525453 </p>
 				<p> web: about.me/mahi.swe </p>
@@ -66,7 +47,7 @@ permalink: /contact/
 </body>
 <footer class="page-footer">
 	<div class="footer">
-		<p>Copyright &copy; niloy.swe    All Rights Reserved, 2019</p>
+		<p>Copyright &copy; andresgquiros    All Rights Reserved, 2021</p>
 	</div>
 </footer>
 
