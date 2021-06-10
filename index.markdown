@@ -19,8 +19,12 @@ title: Andres Gonzalez Quiros
     <a href="https://andresgquiros.github.io/publications" target="_blank">Publications</a>
     </p>
 	  
+	  	   <p>
+    <a href="https://andresgquiros.github.io/about" target="_blank">Contact</a>
+    </p>
+	  
     <p>
-    <img src="https://www.abdn.ac.uk/img/150/staffpages/uploads/s01aq8/Andres_2_2.jpg" alt="abdn.ac.uk">  
+    <-- <img src="https://www.abdn.ac.uk/img/150/staffpages/uploads/s01aq8/Andres_2_2.jpg" alt="abdn.ac.uk">  
       </p>
      
     
