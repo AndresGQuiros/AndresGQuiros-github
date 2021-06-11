@@ -9,9 +9,7 @@ permalink: /publications/
 <h2> Publications </h2>
  
        <body>
-    <p>Hello, I am <strong>testing</strong> .</p>
-	       
-	       
+	       	       
 		<p> <strong>González Quirós, A.</strong>, & Fernández-Álvarez, J. P. (2021). Use of microgravity for identification of delayed gravity drainage and conceptual model selection in unconfined aquifers. Journal of Hydrology, 126285.https://doi.org/10.1016/j.jhydrol.2021.126285 </p>
 
    	    <p> Kurjanski, B., Rea, B.R., Spagnolo, M., Cornwell, D.G., Howell, J., Comte, J.-C., <strong>González Quirós, A.</strong>, Palmu, J.-P., Oien, R.P. and Gibbard, P.L. (2021). Cool deltas: Sedimentological, geomorphological and geophysical characterization of ice-contact deltas and implications for their reservoir properties (Salpausselkä, Finland). Sedimentology https://doi.org/10.1111/sed.12884.</p>
