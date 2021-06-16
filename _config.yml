@@ -22,6 +22,8 @@ title: Andres Gonzalez Quiros
 email: andres.quiros@abdn.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   This is my personal web page (testing).
+featured-image: "/_images/Andres_Quiros.jpg"
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DresKiros
