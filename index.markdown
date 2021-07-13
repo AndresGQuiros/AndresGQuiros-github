@@ -47,8 +47,8 @@ title: Andres Gonzalez Quiros
 
 	
 	   <h2>Jo.in Hydrocafe </h2>
-	    <p>
-   <img src="_images/join_hydrocafe_banner.jpg">  
+	    <p> 
+		    <img src="{{site.url}}/_images/join_hydrocafe_banner.jpg" style="display: block; margin: auto;" />
       </p>
 	
      <p> <strong>Jo.in Hydrocafe </strong> aims to encourage early career researchers to show and share their work, increasing the visibility and impact of their contribution to science.
