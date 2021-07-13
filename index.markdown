@@ -55,7 +55,7 @@ title: Andres Gonzalez Quiros
 	  <p>
     <a href="http://www.aih-ge.org/jo-in-hydrocafe/" target="_blank"> Link to the sessions in the AIH-GE webpage.</a></p>
 	  
-	
+	![image](/jpg/join_hydrocafe_banner.jpg)
 	</body>
 	
 </html>
