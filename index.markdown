@@ -51,8 +51,9 @@ title: Andres Gonzalez Quiros
 <img src="http://www.aih-ge.org/wp-content/uploads/join_hydrocafe_banner.jpg" width="600" height="110" alt="Image" loading="lazy">      
 	  </p>
 	
-     <p> <strong>Jo.in Hydrocafe </strong> aims to encourage early career researchers to show and share their work, increasing the visibility and impact of their contribution to science.
-    <a href="http://www.aih-ge.org/jo-in-hydrocafe/" target="_blank"> Link to the AIH-GE webpage.</a></p>
+     <p> <strong>Jo.in Hydrocafe </strong> aims to encourage early career researchers to show and share their work, increasing the visibility and impact of their contribution to science.</p>
+	  <p>
+    <a href="http://www.aih-ge.org/jo-in-hydrocafe/" target="_blank"> Link to the sessions in the AIH-GE webpage.</a></p>
 	  
 	
 	</body>
