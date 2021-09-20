@@ -52,7 +52,7 @@ title: Andres Gonzalez Quiros
     </p>
 
 	
-	   <h2>Jo.in Hydrocafe </h2>
+	   <h1>Jo.in Hydrocafe </h1>
     <p>
 <img src="jpg/join_hydrocafe_banner.jpg">      
 	  </p>
