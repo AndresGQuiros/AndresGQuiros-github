@@ -10,11 +10,14 @@ title: Andres Gonzalez Quiros
   </head>
   <body>
     
+	  <p> I am a <strong>Royal Society – Newton International Fellow</strong> working in the project “Monitoring and coupled hydrogeophysical modelling of saltwater intrusion in heterogeneous aquifers” . The main objective of the project is to develop a hydrogeophysical mathematical modelling approach for robust quantification of groundwater flow and salt transport in coastal aquifers using geophysical methods.
+
+Previously, I worked in the numerical modelling of water flow and contaminant transport of two flooded underground coal mines in Spain, as part of the EU funded project MERIDA ("Management of Environmental RIsks During and After mine closure"), and as hydrogeologist and geophysicist in several projects including, among others, the evaluation for new uses of abandoned coal mines (coal bed methane, CO2 geological storage, geothermal energy), characterisation of mine tailings or groundwater modelling of coastal aquifers, and geophysical surveys for archaeological and forensic studies.</p> 
+  
     	    <p>
     <a href="https://www.abdn.ac.uk/geosciences/people/profiles/andres.quiros" target="_blank">My ABDN profile</a>
 	  </p>  
-	 
-    <p>
+	     <p>
   <img src="https://www.abdn.ac.uk/global/images/layout/UoA_525_Logo_Web.svg?cb=20200607" alt="abdn.ac.uk"> 
       </p> 
      
