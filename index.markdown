@@ -14,16 +14,12 @@ title: Andres Gonzalez Quiros
     <a href="https://www.abdn.ac.uk/geosciences/people/profiles/andres.quiros" target="_blank">My ABDN profile</a>
     </p>
 	  
-	   <p>
-    <a href="https://andresgquiros.github.io/publications" target="_blank">Publications</a>
-    </p>
-	  
-	  	   <p>
-    <a href="https://andresgquiros.github.io/about" target="_blank">Contact</a>
-    </p>
+
+	
+
 	  
     <p>
-    <!-- <img src="https://www.abdn.ac.uk/img/150/staffpages/uploads/s01aq8/Andres_2_2.jpg" alt="abdn.ac.uk">  -->
+  <img src="https://www.abdn.ac.uk/img/150/staffpages/uploads/s01aq8/Andres_2_2.jpg" alt="abdn.ac.uk"> 
       </p> 
      
     
@@ -38,6 +34,9 @@ title: Andres Gonzalez Quiros
 	 <p> Kurjanski, B., Rea, B.R., Spagnolo, M., Cornwell, D.G., Howell, J., Comte, J.-C., <strong>Gonzalez Quiros, A.</strong> Palmu, J.-P., Oien, R.P. and Gibbard, P.L. (2021). Cool deltas: Sedimentological, geomorphological and geophysical characterization of ice-contact deltas and implications for their reservoir properties (Salpausselkä, Finland). Sedimentology. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/sed.12884" target="_blank"> link.</a></p>
 
    	    <p> <strong>González-Quirós, A.</strong> & Comte, J. C. (2020). Relative importance of conceptual and computational errors when delineating saltwater intrusion from resistivity inverse models in heterogeneous coastal aquifers. Advances in Water Resources, 144, 103695.<a href="https://doi.org/10.1016/j.advwatres.2020.103695" target="_blank"> link.</a></p>
+	  	   <p>
+    <a href="https://andresgquiros.github.io/publications" target="_blank">Publications page</a>
+    </p>
 	
 			
 	    <p>
@@ -46,6 +45,10 @@ title: Andres Gonzalez Quiros
 	  
 	   <p>
     <a href="https://scholar.google.es/citations?user=wz-2JuAAAAAJ" target="_blank">Scholar</a>
+    </p>
+	  
+	  	  	   <p>
+    <a href="https://andresgquiros.github.io/about" target="_blank">Contact</a>
     </p>
 
 	
