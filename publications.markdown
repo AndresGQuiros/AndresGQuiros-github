@@ -10,9 +10,13 @@ permalink: /publications/
  
        <body>
 	       	       
-		<p> <strong>González Quirós, A.</strong>, & Fernández-Álvarez, J. P. (2021). Use of microgravity for identification of delayed gravity drainage and conceptual model selection in unconfined aquifers. Journal of Hydrology, 126285.<a href="https://doi.org/10.1016/j.jhydrol.2021.126285" target="_blank">link</a></p>
-
-   	    <p> Kurjanski, B., Rea, B.R., Spagnolo, M., Cornwell, D.G., Howell, J., Comte, J.-C., <strong>González Quirós, A.</strong>, Palmu, J.-P., Oien, R.P. and Gibbard, P.L. (2021). Cool deltas: Sedimentological, geomorphological and geophysical characterization of ice-contact deltas and implications for their reservoir properties (Salpausselkä, Finland). Sedimentology. <a href="https://doi.org/10.1111/sed.12884" target="_blank">link</a></p>
+     <p> <strong>González-Quirós, A.</strong> & Comte, J. C. (2021). Hydrogeophysical model calibration and uncertainty analysis via full integration of PEST/PEST++ and COMSOL. Environmental Modelling & Software, 105183.
+<a href="https://doi.org/10.1016/j.envsoft.2021.105183" target="_blank"> link.</a></p>
+	  
+	  <p> <strong>González-Quirós, A.</strong>, & Fernández-Álvarez, J. P. (2021). Use of microgravity for identification of delayed gravity drainage and conceptual model selection in unconfined aquifers. Journal of Hydrology, 126285.
+    <a href="https://doi.org/10.1016/j.jhydrol.2021.126285" target="_blank"> link.</a></p>
+	  
+	 <p> Kurjanski, B., Rea, B.R., Spagnolo, M., Cornwell, D.G., Howell, J., Comte, J.-C., <strong>Gonzalez Quiros, A.</strong> Palmu, J.-P., Oien, R.P. and Gibbard, P.L. (2021), Cool deltas: Sedimentological, geomorphological and geophysical characterization of ice-contact deltas and implications for their reservoir properties (Salpausselkä, Finland). Sedimentology. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/sed.12884" target="_blank"> link.</a></p>
 
    	    <p> <strong>González Quirós, A.</strong> & Comte, J. C. (2020). Relative importance of conceptual and computational errors when delineating saltwater intrusion from resistivity inverse models in heterogeneous coastal aquifers. Advances in Water Resources, 144, 103695. <a href="https://doi.org/10.1016/j.advwatres.2020.103695" target="_blank">link</a></p>
 		
