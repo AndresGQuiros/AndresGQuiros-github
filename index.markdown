@@ -54,10 +54,13 @@ title: Andres Gonzalez Quiros
 <img src="jpg/join_hydrocafe_banner.jpg">      
 	  </p>
 	
-     <p> <strong>Jo.in Hydrocafe </strong> aims to encourage early career researchers to show and share their work, increasing the visibility and impact of their contribution to science.</p>
+     <p> <strong>Jo.in Hydrocafe </strong> aims to encourage early career researchers to show and share their work, increasing the visibility and impact of their contribution to Science. The spread of new research methodologies or their application, will not just transfer new knowledge, but also will motivate and give new ideas to everyone that accesses this platform.</p>
 	  <p>
     <a href="http://www.aih-ge.org/jo-in-hydrocafe/" target="_blank"> Link to the sessions in the AIH-GE webpage.</a></p>
+	   
+	  <p> <strong>[CONTACT Jo.in Hydrocafe](mailto:jo.in.hydrocafe@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) </strong> 
 	  
+	    
 	</body>
 	
 </html>
