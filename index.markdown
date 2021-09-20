@@ -12,14 +12,10 @@ title: Andres Gonzalez Quiros
     
     	    <p>
     <a href="https://www.abdn.ac.uk/geosciences/people/profiles/andres.quiros" target="_blank">My ABDN profile</a>
-    </p>
-	  
-
-	
-
-	  
+	  </p>  
+	 
     <p>
-  <img src="https://www.abdn.ac.uk/img/150/staffpages/uploads/s01aq8/Andres_2_2.jpg" alt="abdn.ac.uk"> 
+  <img src="https://www.abdn.ac.uk/global/images/layout/UoA_525_Logo_Web.svg?cb=20200607" alt="abdn.ac.uk"> 
       </p> 
      
     
@@ -48,7 +44,7 @@ title: Andres Gonzalez Quiros
     </p>
 	  
 	  	  	   <p>
-    <a href="https://andresgquiros.github.io/about" target="_blank">Contact</a>
+    <a href="https://andresgquiros.github.io/about" target="_blank"><strong>Contact</strong></a>
     </p>
 
 	
